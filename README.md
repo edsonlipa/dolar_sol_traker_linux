@@ -1,0 +1,1 @@
+# dolar_sol_traker_linux
